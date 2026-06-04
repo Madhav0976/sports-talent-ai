@@ -1,73 +1,158 @@
-# Welcome to your Lovable project
+# 🏆 SportsTalent AI
 
-## Project info
+An AI-powered sports talent discovery and athlete performance tracking platform designed to identify, assess, and nurture sports talent across India, especially in rural and underserved communities.
 
-**URL**: https://lovable.dev/projects/fd1cb85e-7974-4a42-9716-a73a426e0195
+---
 
-## How can I edit this code?
+## 🚀 Overview
 
-There are several ways of editing your application.
+SportsTalent AI aims to bridge the gap between talented athletes and professional opportunities by leveraging AI-driven assessments, performance analytics, and structured athlete development tools.
 
-**Use Lovable**
+The platform provides a modern ecosystem for:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fd1cb85e-7974-4a42-9716-a73a426e0195) and start prompting.
+* Athletes to track performance and growth
+* Coaches to monitor athlete progress
+* AI-powered talent discovery through video analysis
+* Data-driven sports development
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🎯 AI-Powered Talent Discovery
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* Upload or record athlete performance videos
+* AI-assisted assessment workflow
+* Structured talent evaluation process
 
-Follow these steps:
+### 👤 Athlete Dashboard
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* Track performance metrics
+* Monitor goals and achievements
+* View progress trends over time
+* Manage upcoming events
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🏅 Coach Dashboard
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Monitor multiple athletes
+* Performance comparison analytics
+* Injury alerts and management
+* Team progress tracking
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+### 📊 Performance Analytics
+
+* Performance trend visualization
+* Athlete comparison metrics
+* Sports-specific analytics
+* Data-driven insights
+
+### 📱 Responsive Design
+
+* Mobile-friendly interface
+* Modern UI/UX
+* Accessible across devices
+
+---
+
+## 🛠️ Tech Stack
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* shadcn/ui
+* React Router
+* Recharts
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── hooks/
+├── lib/
+├── App.tsx
+└── main.tsx
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📸 Screenshots
 
-**Use GitHub Codespaces**
+### Landing Page
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f6ca94d-82e0-4479-a6fc-ac092fd5e652" />
 
-## What technologies are used for this project?
 
-This project is built with:
+### Talent Discovery
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b58d0254-29b2-482f-81a4-e72c4f02e1f1" />
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/fd1cb85e-7974-4a42-9716-a73a426e0195) and click on Share -> Publish.
+### Athlete Dashboard
 
-## Can I connect a custom domain to my Lovable project?
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9253dbb-c3e2-4430-8aa6-3619401bd34f" />
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Coach Dashboard
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5269fa7-ebb0-4cdf-97cb-4fab2be5bdca" />
+
+
+### Performance Analytics
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afb4bf19-b12d-4d8c-82cd-6ec086217d7c" />
+
+
+---
+
+## 🎯 Problem Statement
+
+Many talented athletes in India, especially from rural and tribal regions, lack access to professional assessment tools, coaching resources, and structured development pathways.
+
+SportsTalent AI addresses these challenges through technology-driven talent identification and performance monitoring.
+
+---
+
+## 🔮 Future Enhancements
+
+* Real AI/ML model integration
+* Video-based athlete scoring
+* Authentication & role management
+* Cloud storage for athlete records
+* Training recommendations engine
+* Multi-language support
+* Mobile application
+
+---
+
+## 💡 Learning Outcomes
+
+This project helped strengthen skills in:
+
+* React Development
+* TypeScript
+* Component-Based Architecture
+* Dashboard Design
+* Data Visualization
+* Responsive UI Development
+* Frontend Project Structure
+
+---
+
+## 👨‍💻 Author
+
+**T. V. Bindu Madhav**
+
+B.Tech CSE Student | Open Source Contributor | Full Stack Developer | AI/ML Enthusiast
+
+GitHub: https://github.com/Madhav0976
+
+LinkedIn: https://www.linkedin.com/in/madhavtanguturi
+
+---
+
+⭐ If you found this project interesting, consider giving it a star.
