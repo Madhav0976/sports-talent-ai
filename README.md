@@ -84,27 +84,27 @@ src/
 
 ### Landing Page
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f6ca94d-82e0-4479-a6fc-ac092fd5e652" />
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/87ff2247-0a07-425a-8e78-0f44bcb17edd" />
 
 
 ### Talent Discovery
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b58d0254-29b2-482f-81a4-e72c4f02e1f1" />
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/ea61522f-f223-46e9-92e0-57c98e561c68" />
 
 
 ### Athlete Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9253dbb-c3e2-4430-8aa6-3619401bd34f" />
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/27eb8cfd-0bd2-43ae-825c-23bdca9984f5" />
 
 
 ### Coach Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5269fa7-ebb0-4cdf-97cb-4fab2be5bdca" />
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/82e9ed5f-1dae-4358-9598-6dda61f7f81a" />
 
 
 ### Performance Analytics
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afb4bf19-b12d-4d8c-82cd-6ec086217d7c" />
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/64c94d3a-e3ec-4f18-adcb-7ab8672381da" />
 
 
 ---
